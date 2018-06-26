@@ -9,7 +9,6 @@
   "dependencies": {
     "babel-jest": "^22.4.3",
     "babel-preset-env": "^1.6.1",
-    "babel-preset-es2015": "^6.24.1",
     "jest": "^22.4.3",
     "jest-environment-node": "^22.4.3",
     "mkdirp": "^0.5.1",
